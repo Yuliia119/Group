@@ -1,0 +1,28 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+  background-color: rgb(24, 24, 24);
+  color: rgb(3, 216, 3);
+  font-size: 20px;
+}
+
+body {
+  padding: 0 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  padding: 20px 0;
+  position: sticky;
+  text-align: center;
+  top: 0;
+}
+
+main {
+  font-style: italic;
+}
+
+footer {
+  padding: 20px 0;
+  height: 60px;
+}
